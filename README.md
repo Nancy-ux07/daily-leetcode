@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nancy-ux07/daily-leetcode/tree/master/0088-merge-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nancy-ux07/daily-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nancy-ux07/daily-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -18,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nancy-ux07/daily-leetcode/tree/master/0088-merge-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nancy-ux07/daily-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nancy-ux07/daily-leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
